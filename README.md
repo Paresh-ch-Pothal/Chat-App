@@ -30,4 +30,4 @@ A real-time chat application built using the MERN (MongoDB, Express.js, React, N
 - This project is licensed under the MIT License.
 
 ## Credits
--This project is inspired by Roadside Coder.
+- This project is inspired by Roadside Coder.
